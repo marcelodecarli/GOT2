@@ -1,0 +1,13 @@
+{
+  "name": "got2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tsc && node ./build/Battle.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
